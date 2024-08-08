@@ -1,0 +1,16 @@
+Introducción:
+
+python:
+
+https://pynative.com/python/quizzes/ 
+
+django:
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+https://docs.djangoproject.com/en/5.1/
+
+https://youtu.be/7XO1AzwkPPE?si=V7hqKM90yC6NR7yr
+
+https://www.youtube.com/watch?v=cUq6OUVrWxA&list=PLuB3bC9rWQAsvAIaRjqinAuZevENyfn5j&pp=iAQB
+
+
