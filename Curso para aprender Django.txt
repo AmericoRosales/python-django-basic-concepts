@@ -2,11 +2,16 @@ Introducción:
 
 python:
 
+https://youtu.be/9k91jETchkI?si=nwjnIpPTbdGnZewf
+
+https://www.codedex.io/python
+
 https://pynative.com/python/quizzes/ 
 
 django:
 
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+
 https://docs.djangoproject.com/en/5.1/
 
 https://youtu.be/7XO1AzwkPPE?si=V7hqKM90yC6NR7yr
